@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kartik Sharma ... and I'm a programmer from India</h2>
+<h2 align="center">Hi 👋! My name is Kartik Sharma ... and I'm a programmer from India</h2>
 
 ###
 
@@ -9,29 +9,29 @@
 
 ###
 
-<img align="right" height="150" src="https://digital.lifeshare.org.uk/wp-content/uploads/2020/09/8306-programming-animation.gif"  />
+<img align="right" height="200" src="https://digital.lifeshare.org.uk/wp-content/uploads/2020/09/8306-programming-animation.gif"  />
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
@@ -46,10 +46,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/theinterestingdev/theinterestingdev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Hello World!!</p>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfxl3qmhk77e4wp6p2xjncxoee"alt="Spotify" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<div align ="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfxl3qmhk77e4wp6p2xjncxoee" height="220" alt="Spotify" />
+</div>
+  
 ###
