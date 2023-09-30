@@ -49,8 +49,15 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align ="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfxl3qmhk77e4wp6p2xjncxoee" height="220" alt="Spotify" />
+
+<<div align = "center">
+<text>Randomness</text>
 </div>
+<div align ="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+
+---
+
   
 ###
