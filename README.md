@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="190" src="https://digital.lifeshare.org.uk/wp-content/uploads/2020/09/8306-programming-animation.gif"  />
+<img align="right" height="160" src="https://digital.lifeshare.org.uk/wp-content/uploads/2020/09/8306-programming-animation.gif"  />
 
 ###
 
