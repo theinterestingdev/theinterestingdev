@@ -54,7 +54,7 @@
                     align="center"
                 />
             </a></div>
-<<div align = "center">
+<div align = "center">
 <text>Randomness</text>
 </div>
 <div align ="center">
