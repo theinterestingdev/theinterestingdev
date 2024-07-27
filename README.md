@@ -52,10 +52,6 @@
                     align="center"
                 />
             </a></div>
-<div align = "center">
-<text>Randomness</text>
-</div>
-
 
 ---
 
