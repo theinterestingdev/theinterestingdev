@@ -1,13 +1,10 @@
 <h2 align="center">Hi 👋! My name is Kartik Sharma ... and I'm a programmer from India</h2>
 
-
-
 ###
 
 <img align="right" height="130" src="https://digital.lifeshare.org.uk/wp-content/uploads/2020/09/8306-programming-animation.gif"  />
 
 ###
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -31,10 +28,8 @@
 
 ###
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kartiks04800/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-
 </div>
 
 ###
@@ -42,18 +37,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Digital_rain_animation_medium_letters_2_shine.gif?20190812175400" height="220" alt="digital rain animation" />
 </div>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/kartiks0486" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+    <a href="https://www.buymeacoffee.com/kartiks0486" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+            align="center"
+        />
+    </a>
+</div>
 
 ---
-
-  
-###
